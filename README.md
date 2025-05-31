@@ -15,3 +15,7 @@ A private island is a tract of land completely surrounded by water that is owned
 #
 
 [Buried Treasure](https://github.com/sourceduty/Buried_Treasure)
+<br>
+[House Design](https://github.com/sourceduty/House_Design)
+<br>
+[Car Design](https://github.com/sourceduty/Car_Design)
