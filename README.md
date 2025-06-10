@@ -37,6 +37,7 @@ Perched dramatically above a pristine beach, this luxurious lookout tower redefi
 
 #
 ![Islands](https://github.com/user-attachments/assets/654a00a9-ca25-489e-b70a-6f846a929a77)
+![Luxury](https://github.com/user-attachments/assets/f7e1bfeb-ad71-4e50-86d5-ea181c5a7fde)
 #
 
 [Buried Treasure](https://github.com/sourceduty/Buried_Treasure)
