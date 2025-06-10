@@ -14,7 +14,7 @@ A private island is a tract of land completely surrounded by water that is owned
 
 ![Dig](https://github.com/user-attachments/assets/4d2d67ca-59ee-45e5-bbda-680943d6e89c)
 
-[Dig X](https://chatgpt.com/g/g-JAsawu1Lv-3d-concept) is designed to assist in the research and development of software for identifying optimal locations for excavation activities such as digging holes, trenches, and foundations. It integrates knowledge from geotechnical analysis, GIS, remote sensing, and machine learning to evaluate and predict the most suitable excavation sites. The system considers factors like soil composition, terrain, subsurface conditions, and environmental impact, and it leverages data from drones and sensors to offer real-time insights. Dig X also simulates excavation scenarios for efficiency and compliance, ensuring legal adherence and minimizing risk, ultimately empowering construction professionals to make informed, data-driven decisions.
+[Dig X](https://chatgpt.com/g/g-6774c05e5abc81918b91829e98ebd8d5-dig-x) is designed to assist in the research and development of software for identifying optimal locations for excavation activities such as digging holes, trenches, and foundations. It integrates knowledge from geotechnical analysis, GIS, remote sensing, and machine learning to evaluate and predict the most suitable excavation sites. The system considers factors like soil composition, terrain, subsurface conditions, and environmental impact, and it leverages data from drones and sensors to offer real-time insights. Dig X also simulates excavation scenarios for efficiency and compliance, ensuring legal adherence and minimizing risk, ultimately empowering construction professionals to make informed, data-driven decisions.
 
 #
 
